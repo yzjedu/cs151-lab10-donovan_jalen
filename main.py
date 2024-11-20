@@ -3,8 +3,8 @@
 # Due Date: november 20th
 # Lab Assignment:  lab10
 # Problem Statement:
-# Data In: file name
-# Data Out:  table #, seat # and name from list
+# Data In: file, decisons
+# Data Out:  table, updsated file, highest or lowest
 # Credits:
 # Input Files: [description of the format of the input files you need for this program to work]
 
