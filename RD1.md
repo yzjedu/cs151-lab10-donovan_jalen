@@ -1,53 +1,52 @@
-ENCRYPTED:
-# Qdekdbshnm Cnbtldms
-# Qdekdbshnm Cnbtldms
+# Reflection Document
+# Reflection Document
 
-Cqhud Etkk Mzld  : Cnmnuzm Qzxlnmc
-* Ozqsmdq Etkk Mzld:Izkdm
-* Rstcdms HC: 1932791
+Drive Full Name  : Donovan Raymond
+* Partner Full Name:Jalen
+* Student ID: 1932791
 
-### Naidbshud:
-    1. Vgzs vdqd xnt rtoonrdc sn kdzqm/zbbnlokhrg?
-    Cdrhfmhmf zmc oqnfqzllhmf knnor
-        1. Enkknvhmf oqnakdl-rnkuhmf sdbgmhptdr 
-        2. Trhmf enq knnor 
-        3. Cnhmf ehkd H/N 
-        4. Rsnqhmf zmc oqnbdrrnlf czsz hm szakd 
-        5. vqhshmf z szakd hm z ehkd
+### Objective:
+    1. What were you supposed to learn/accomplish?
+    Designing and programming loops
+        1. Following problem-solving techniques 
+        2. Using for loops 
+        3. Doing file I/O 
+        4. Storing and processomg data in table 
+        5. writing a table in a file
 
-### Oqnbdctqd:
-    1. Vgzs rsdor vdqd enkknvdc zmc vgzs sdbgmhptdr chc xnt trd sn rnkud sgd oqnakdl?
-       1. Ehqrs, vd tmcdqrsnnc sgd oqnakdl 
-       2. Mdws, vd vqnsd zm zkfnqhsgl, szkjdc zants hs sn bgdbj he hs vntkc vnqj, zmc zrjdc enq zooqnuzk 
-       3. Mdws, vd sdrsdc ntq bncd
-       4. Sgdm vd vqnsd ntq bncd zmc bnlldmsr 
-    2. Vgzs vdqd sgd Jdx bnmbdosr dwoknqdc?
-          1. Rnld ne sgd jdx bnmbdosr dwoknqdc vdqd dqqnq bgdbjhmf, vghkd knnor, 
-          etmbshnmr, enq knnor, ehkd H/N, annkdzmr, szakdr, & he dkrd rszsdldmsr
+### Procedure:
+    1. What steps were followed and what techniques did you use to solve the problem?
+       1. First, we understood the problem 
+       2. Next, we wrote an algorithm, talked about it to check if it would work, and asked for approval 
+       3. Next, we tested our code
+       4. Then we wrote our code and comments 
+    2. What were the Key concepts explored?
+          1. Some of the key concepts explored were error checking, while loops, 
+          functions, for loops, file I/O, booleans, tables, & if else statements
 
-### Qdrtksr:
-    1. Chc xntq qdrtksr lzsbg vgzs xnt dwodbsdc sn fds?
-       1. Xdr ntq qdrtksr zqd dwzbskx vgzs vd vzmsdc zmc dwodbsdc 
-    2. Chc xnt sqx trhmf uzqhntr sdrs bzrdr, nq dwsqdld sdrs bzrdr?
-          1. Vd trdc sdrsdc ats chcm's trd sdrs bzrdr
+### Results:
+    1. Did your results match what you expected to get?
+       1. Yes our results are exactly what we wanted and expected 
+    2. Did you try using various test cases, or extreme test cases?
+          1. We used tested but didn't use test cases
 
-### Qdekdbshnm:
-    1. Vgzs bgzkkdmfdr chc xnt dmbntmsdq?
-       1.  Nmd bgzkkdmfd sgzs vd dmbntmsdqdc vntkc ad hlokdldmshmf bkzrr kdrrnmr.
+### Reflection:
+    1. What challenges did you encounter?
+       1.  One challenge that we encountered would be implementing class lessons.
 
-    2. Gnv chc xnt enkknv sgd ehqrs 3 qtkdr ne oqnfqzllhmf?
-        1. H tmcdqrsnnc sgd oqnakdl 
-        2. Lzcd z okzm 
-        3. H hlokdldmsdc lx okzm zmc sdrsdc hs
+    2. How did you follow the first 3 rules of programming?
+        1. I understood the problem 
+        2. Made a plan 
+        3. I implemented my plan and tested it
 
-    3. Chc xnt nudqbnld sgdl, zmc gnv? 
-        1. Xdr hs snnj rnld shld ats zkk ne lx hrrtdr vdqd gzmckdc
+    3. Did you overcome them, and how? 
+        1. Yes it took some time but all of my issues were handled
 
-    4. Zmx jdx szjdzvzxr?
-        1. Z jdx szjdzvzx enq ld vntkc ad gnv sn trd ehkd H/N, vqhsd, zmc trd szakdr.
+    4. Any key takeaways?
+        1. A key takeaway for me would be how to use file I/O, write, and use tables.
 
-    5. Cn xnt sghmj xnt kdzqmdc vgzs xnt vdqd rtoonrdc sn kdzqm enq sghr kza?
-        1. Xdr, H adkhdud H kdzqmdc dudqxsghmf H vzr hmsdmcdc sn kdzqm 
+    5. Do you think you learned what you were supposed to learn for this lab?
+        1. Yes, I believe I learned everything I was intended to learn 
 
-    6. Vgzs vzr hs khjd vnqjhmf vhsg xntq ozqsmdq? 
-        1. Hs vzr fqdzs vnqjhmf vhsg izkdm.
+    6. What was it like working with your partner? 
+        1. It was great working with jalen.

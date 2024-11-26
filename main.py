@@ -92,7 +92,7 @@ def find_lowest_profit(table):
     return lowest_line
 
 def main():
-    table = read_to_file("movies.csv")
+    table = read_to_file("/home/zyalew/Courses/FA_24_CS151/cs151-lab10-submissions/cs151-lab10-donovan_jalen/movies.csv")
     write_from_table(table, "updated_movies.csv")
 
     # determine which movie had either the highest profit or the lowest profi
